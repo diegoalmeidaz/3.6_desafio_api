@@ -1,0 +1,113 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.container h1 {
+  color: white;
+}
+
+body {
+    background-color: rgb(26, 77, 148);
+    
+  }
+  
+  hr {
+    border: 1px solid #1d3e47;
+    width: 100%;
+  }
+  
+  input {
+    width: 100%;
+    text-align: center;
+  }
+  
+  select {
+    width: 100%;
+    text-align: center;
+  }
+  
+  button {
+    width: 100%;
+  }
+  
+  label {
+    width: 100%;
+  }
+  
+  .container {
+    height: 75vh;
+  }
+  
+  
+  .card {
+    width: 50%;
+    background-color: lightblue;
+  }
+  
+  .card-body {
+    width: 75%;
+  }
+  
+  .queryDate {
+    width: 50%;
+    background-color: transparent;
+    border: 2px solid #007bff;
+    color: #007bff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+ .graphic {
+  width: 75%;
+ }
+  
+
+  .resultado {
+    width: 50%;
+    background-color: rgb(231, 180, 15);
+    margin-top: 30px;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-size: medium;
+    flex-direction: column;
+
+  }
+
+  #resultadoMonedaConvertida {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    padding: 10px;
+  }
+
+
+  .conexion {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    background-color: lightblue;
+    margin-top: 30px;
+    border-radius: 7px;
+    align-content: center;
+    justify-content: center;
+    padding: 35px;
+    color: grey;
+    
+
+  }
+
+  .graphic {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+  }
+
+  
